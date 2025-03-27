@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "3191bcbb1b7ad1a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "253ccea2eeaee230",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc88e13b10e82a6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servlet/request和response对象.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "request和response对象"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af6bf58e2932e05c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fefbf91c845b950",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b23e8fae176101c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "76a0c14ed01a4445",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8e2763e91671a2d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238.5
+  },
+  "right": {
+    "id": "21c45bd385fe8745",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4a6a2464dc3babb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "667b9156b6c7d0df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "反射.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反射 的反向链接列表"
+            }
+          },
+          {
+            "id": "7998445c6f2b8b0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "反射.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "反射 的出链列表"
+            }
+          },
+          {
+            "id": "f9f8d380909edac6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "21ce114ec5d37045",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Servlet/request和response对象.md"
+              },
+              "icon": "lucide-list",
+              "title": "request和response对象 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "21ce114ec5d37045",
+  "lastOpenFiles": [
+    "Servlet/servlet两种配置方法.md",
+    "Servlet/request和response对象.md",
+    "配置文件Properties.md",
+    "Java/反射.md",
+    "JDBC/未命名.md",
+    "Servlet",
+    "JDBC.md",
+    "JDBC",
+    "JDBC",
+    "欢迎.md",
+    "临时杂糅文件夹",
+    "Java",
+    "JavaScript/Web APIs/BOM",
+    "JavaScript/Web APIs/DOM",
+    "JavaScript/Web APIs",
+    "JavaScript"
+  ]
+}
