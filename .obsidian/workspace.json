@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servlet/request和response对象.md",
+                "file": "JavaWeb/Servlet/request和response对象.md",
                 "mode": "source",
                 "source": false
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servlet/request和response对象.md"
+                "file": "JavaWeb/Servlet/request和response对象.md"
               },
               "icon": "lucide-list",
               "title": "request和response对象 的大纲"
@@ -159,27 +159,28 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "21ce114ec5d37045",
+  "active": "b23e8fae176101c6",
   "lastOpenFiles": [
-    "Servlet/servlet两种配置方法.md",
-    "Servlet/request和response对象.md",
+    "中间件",
+    "JavaWeb",
+    "中间件/Git",
+    "中间件/MyBatis",
+    "JavaWeb/Servlet/servlet两种配置方法.md",
+    "JavaWeb/Servlet/request和response对象.md",
     "配置文件Properties.md",
     "Java/反射.md",
-    "JDBC/未命名.md",
-    "Servlet",
+    "JavaWeb/JDBC/未命名.md",
+    "JavaWeb/Servlet",
     "JDBC.md",
-    "JDBC",
-    "JDBC",
+    "JavaWeb/JDBC",
+    "JavaWeb/JDBC",
     "欢迎.md",
     "临时杂糅文件夹",
     "Java",
-    "JavaScript/Web APIs/BOM",
-    "JavaScript/Web APIs/DOM",
-    "JavaScript/Web APIs",
-    "JavaScript"
+    "JavaWeb/JavaScript/Web APIs/BOM",
+    "JavaWeb/JavaScript/Web APIs/DOM"
   ]
 }
