@@ -8,7 +8,7 @@
 
 ## 1. 基于XML文档实现
 
-需在beans中逐一声明每个Bean的id和class属性。显式依赖注入​​：通过constructor-arg或property标签手动注入依赖。(构造函数注入，与设值注入)
+需在beans中逐一声明每个Bean的id和class属性。显式依赖注入​​：通过constructor-arg或property标签手动注入依赖。(有参构造函数注入，与设值注入)
 
 
 ```xml
@@ -88,7 +88,7 @@ public class UserService implements IUserService {
 
 
 ## 3. 基于java配置类实现
->创建一个config包，放置我们的spring配置类。需要更换容器，换成注解配置容器AnnotationConfigApplicationContext。
+>创建一个config包，放置我们的spring核心配置类（替换掉了XML配置文件）。此时不能再用xml的容器，要换成注解配置容器AnnotationConfigApplicationContext。
 
 
 >@Configuration与@Bean搭配使用，显式指定要注册的bean。但通常跟ComponentScan混用
@@ -127,7 +127,7 @@ public class MySpringConfig {
 
 搭配component注解实现。
 
-springboot测试无需创建手动容器，可以直接配置，然后运行
+springboot测试无需手动创建容器，可以直接配置，然后运行
 ```java
 //该注解包含了扫描包componentscan和配置类configuration注解
 
