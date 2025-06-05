@@ -11,12 +11,13 @@
 
 ## 3. @Bean注解
 	a. 是放在方法上面的
-	b. 通常放在配置类里面
+	b. 必须结合配置类使用
 		i. 用@Component搭配，不会去容器里面查找获取，变成了普通方法的调用。必须要@Configuration注解才会通过springboot的代理来调用。
 		ii. 一个bean调用另一个bean，在spring底层依赖关系处理机制的基础上，会从容器中拿被依赖的bean，而不会多次实例化bean。（参考spring的依赖解析）
 		
 	c. 使用该注解，手动干预bean的实例化过程，可以让我们把jar包中无法修改的代码进行重新配置
 	d. @Bean方法的参数spring会为我们自动注入
+	e.返回我们创建的实例化对象，spring会为我们设置为bean进行管理。也就是手动进行bean的实例化。
 
 
 ## 4. @Import注解
