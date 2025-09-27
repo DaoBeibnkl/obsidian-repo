@@ -7,6 +7,14 @@
 	5. 提交事务（如果需要）
 	6. 关闭连接，关闭输入流
 
+>加载核心配置文件
+
+	使用ibatis下Resources的getResourceAsStream方法来加载。底层是调用getClassLoader类加载器把配置文件转换为输入字节流。
+```java
+InputStream is = Resources.getResourceAsStream("MyBatisConfig.xml");  
+//Student.class.getClassLoader().getResourceAsStream("MyBatisConfig.xml");
+```
+
 
 1、先写MyBatis核心配置文件
 2、写xxxMapper接口类，规定要做的数据库操作

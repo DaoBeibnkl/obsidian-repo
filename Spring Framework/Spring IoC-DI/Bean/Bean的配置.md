@@ -1,3 +1,4 @@
+![[Pasted image 20250913152038.png]]
 ## 1. xml的bean标签
 `<bean class="" name=""></bean>`
 
