@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f945b28227e9f6bc",
+        "id": "0cac06d5bc887389",
         "type": "tabs",
         "children": [
           {
-            "id": "4553262737966cb3",
+            "id": "5b646d02ce2ed77c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Framework/Spring IoC-DI/Bean/依赖注入.md",
+                "file": "middleware/Linux/dnf更换阿里云镜像源.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "依赖注入"
-            }
-          },
-          {
-            "id": "9f4fa500469404ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "每天一遍.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "每天一遍"
+              "title": "dnf更换阿里云镜像源"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -154,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Framework/Spring IoC-DI/IoC的三种实现方法.md"
+                "file": "middleware/Linux/dnf更换阿里云镜像源.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "IoC的三种实现方法 的大纲"
+              "title": "dnf更换阿里云镜像源 的大纲"
             }
           }
         ],
@@ -165,11 +154,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -178,42 +167,48 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9f4fa500469404ad",
+  "active": "b23e8fae176101c6",
   "lastOpenFiles": [
-    "Spring Framework/Spring IoC-DI/Bean/依赖注入.md",
-    "每天一遍.md",
-    "未命名",
-    "Spring Framework/Spring IoC-DI/Bean/11.md",
-    "Spring Framework/Spring IoC-DI/介绍.md",
-    "Spring Framework/Spring IoC-DI/IoC的三种实现方法.md",
-    "Spring Framework/Spring IoC-DI/JDK原生注解.md",
-    "Spring Framework/Spring IoC-DI/Bean/Bean的作用域.md",
-    "Spring Framework/Spring IoC-DI/Bean/Bean的配置.md",
-    "Spring Framework/Spring IoC-DI/Bean/实例化Bean.md",
-    "Spring Framework/Spring IoC-DI/Bean",
+    "middleware/Linux/核心仓库BaseOs和AppStream.md",
+    "middleware/Linux/软件包管理器.md",
+    "middleware/Linux/dnf更换阿里云镜像源.md",
+    "middleware/Linux/dnf-plugins-core.md",
+    "middleware/Docker/docker安装配置.md",
+    "[docker安装配置.md",
+    "middleware/Docker/镜像和容器的区别.md",
+    "middleware/Linux/wget命令.md",
+    "middleware/Linux/shell中命令替换.md",
+    "middleware/Linux/字符串是否shell展开.md",
+    "middleware/Linux/搜索类型的命令.md",
+    "middleware/Linux/find命令.md",
+    "middleware/Linux",
+    "middleware/Docker/与k8s的关系.md",
+    "middleware/每天一遍.md",
+    "middleware/Docker",
+    "middleware/attachments/Pasted image 20250928101437.png",
+    "middleware/attachments",
+    "middleware/MyBatis/MybatisPlus/乐观锁.md",
+    "middleware/MyBatis/MybatisPlus/需要配置拦截器的情况.md",
     "Spring Framework/Spring框架介绍.md",
     "Spring Framework/架构演变.md",
-    "中间件/MyBatis/MyBatis介绍.md",
-    "Spring Framework/Spring IoC-DI",
-    "Spring Framework",
-    "JavaWeb/Servlet/系统架构（三层架构与MVC架构）.md",
+    "Spring Framework/SpringBoot/springboot依赖最佳实践机制讲解.md",
+    "Spring Framework/Spring IoC-DI/JDK原生注解.md",
+    "Spring Framework/Spring IoC-DI/IoC的三种实现方法.md",
+    "Spring Framework/Spring IoC-DI/介绍.md",
+    "Spring Framework/Spring AOP/简介.md",
+    "Python/可迭代对象.md",
+    "Python/变量赋值，怎么样地址会变动？.md",
+    "Python/【2，1，1】列表的自动内存管理功能.md",
     "JavaWeb/Servlet/attachments/Pasted image 20250401100326.png",
-    "JavaWeb/Servlet/配置文件Properties.md",
     "JavaWeb/Servlet/attachments/Pasted image 20250401095759.png",
-    "JavaWeb/Servlet/request和response对象.md",
-    "JavaWeb/Servlet/servlet两种配置方法.md",
-    "JavaWeb/Servlet/attachments",
-    "JavaWeb/Servlet/img",
-    "Pasted image 20250401095423.png",
-    "Java/反射.md",
-    "中间件/Git/未命名.md",
-    "JavaWeb/JDBC/连接池操作.md",
-    "JavaWeb/JDBC/基本JDBC流程.md",
-    "中间件",
-    "JavaWeb",
-    "中间件/Git",
-    "中间件/MyBatis",
-    "JDBC.md",
-    "欢迎.md"
+    "middleware/MyBatis/MybatisPlus",
+    "middleware/MySQL",
+    "middleware/Maven",
+    "Spring Framework/SpringMVC",
+    "Spring Framework/SpringBoot",
+    "未命名.base",
+    "Spring Framework/Spring AOP",
+    "Spring Framework/Spring IoC-DI/Bean/attachments/Pasted image 20250913152038.png",
+    "Pasted image 20250401095423.png"
   ]
 }
