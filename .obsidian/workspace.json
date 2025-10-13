@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "middleware/Linux/dnf更换阿里云镜像源.md",
+                "file": "middleware/SCM工具.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dnf更换阿里云镜像源"
+              "title": "SCM工具"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "middleware/Linux/dnf更换阿里云镜像源.md",
+                "file": "middleware/SCM工具.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "dnf更换阿里云镜像源 的大纲"
+              "title": "SCM工具 的大纲"
             }
           }
         ],
@@ -169,45 +169,45 @@
   },
   "active": "b23e8fae176101c6",
   "lastOpenFiles": [
-    "middleware/Linux/核心仓库BaseOs和AppStream.md",
-    "middleware/Linux/软件包管理器.md",
-    "middleware/Linux/dnf更换阿里云镜像源.md",
-    "middleware/Linux/dnf-plugins-core.md",
-    "middleware/Docker/docker安装配置.md",
-    "[docker安装配置.md",
+    "middleware/Jenkins",
+    "middleware/Git/未命名.md",
+    "middleware/Git/未命名 1.md",
+    "middleware/SCM工具.md",
+    "middleware/Linux/命令/用户和组，权限/useradd命令.md",
+    "middleware/Linux/命令/用户和组，权限/最小权限原则.md",
+    "middleware/Linux/命令/用户和组，权限/chmod和chown.md",
+    "middleware/Linux/命令/wget命令.md",
+    "middleware/Linux/命令/ps命令.md",
+    "middleware/Linux/命令/mkdir命令.md",
+    "middleware/Linux/命令/dirname命令.md",
+    "middleware/Linux/命令/用户和组，权限",
+    "middleware/Linux/命令/搜索类型的命令.md",
+    "middleware/Linux/命令/find命令.md",
+    "middleware/Docker/镜像和容器操作/容器操作.md",
+    "middleware/Docker/镜像和容器操作/数据持久化.md",
+    "middleware/Docker/镜像和容器操作/镜像操作.md",
+    "middleware/Docker/镜像和容器操作/docker run.md",
+    "middleware/Docker/容器名称和id.md",
+    "middleware/Docker/镜像和容器操作/保存为镜像.md",
+    "middleware/Docker/对已经创建的容器进行挂载映射.md",
+    "middleware/Docker/镜像和容器操作/docker exec和attach.md",
+    "middleware/Docker/镜像和容器操作",
     "middleware/Docker/镜像和容器的区别.md",
-    "middleware/Linux/wget命令.md",
-    "middleware/Linux/shell中命令替换.md",
-    "middleware/Linux/字符串是否shell展开.md",
-    "middleware/Linux/搜索类型的命令.md",
-    "middleware/Linux/find命令.md",
-    "middleware/Linux",
+    "middleware/Docker/docker安装配置.md",
     "middleware/Docker/与k8s的关系.md",
-    "middleware/每天一遍.md",
+    "middleware/Docker/run和start的区别.md",
+    "middleware/Linux/命令",
+    "middleware/Docker/attachments/Obsidian.exe",
+    "middleware/Docker/attachments",
+    "middleware/Linux/dnf更换阿里云镜像源.md",
+    "middleware/Linux",
     "middleware/Docker",
     "middleware/attachments/Pasted image 20250928101437.png",
     "middleware/attachments",
-    "middleware/MyBatis/MybatisPlus/乐观锁.md",
-    "middleware/MyBatis/MybatisPlus/需要配置拦截器的情况.md",
-    "Spring Framework/Spring框架介绍.md",
-    "Spring Framework/架构演变.md",
-    "Spring Framework/SpringBoot/springboot依赖最佳实践机制讲解.md",
-    "Spring Framework/Spring IoC-DI/JDK原生注解.md",
-    "Spring Framework/Spring IoC-DI/IoC的三种实现方法.md",
-    "Spring Framework/Spring IoC-DI/介绍.md",
-    "Spring Framework/Spring AOP/简介.md",
-    "Python/可迭代对象.md",
-    "Python/变量赋值，怎么样地址会变动？.md",
-    "Python/【2，1，1】列表的自动内存管理功能.md",
     "JavaWeb/Servlet/attachments/Pasted image 20250401100326.png",
     "JavaWeb/Servlet/attachments/Pasted image 20250401095759.png",
     "middleware/MyBatis/MybatisPlus",
     "middleware/MySQL",
-    "middleware/Maven",
-    "Spring Framework/SpringMVC",
-    "Spring Framework/SpringBoot",
-    "未命名.base",
-    "Spring Framework/Spring AOP",
     "Spring Framework/Spring IoC-DI/Bean/attachments/Pasted image 20250913152038.png",
     "Pasted image 20250401095423.png"
   ]
