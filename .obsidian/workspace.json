@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0cac06d5bc887389",
+        "id": "08793e8cf300ae94",
         "type": "tabs",
         "children": [
           {
-            "id": "5b646d02ce2ed77c",
+            "id": "70df5e2cb4402e5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "middleware/SCM工具.md",
+                "file": "middleware/Kubernetes/资源对象（组件）/deploy和sts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SCM工具"
+              "title": "deploy和sts"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "middleware/SCM工具.md",
+                "file": "middleware/Kubernetes/资源对象（组件）/deploy和sts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SCM工具 的大纲"
+              "title": "deploy和sts 的大纲"
             }
           }
         ],
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,47 +168,47 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b23e8fae176101c6",
+  "active": "70df5e2cb4402e5f",
   "lastOpenFiles": [
+    "middleware/Kubernetes/资源对象（组件）/cm和secret.md",
+    "middleware/Kubernetes/资源对象（组件）/secret.md",
+    "middleware/Kubernetes/资源对象（组件）/deploy和sts.md",
+    "middleware/Kubernetes/资源对象（组件）/vol.md",
+    "middleware/Kubernetes/资源对象（组件）/ing.md",
+    "middleware/Kubernetes/资源对象（组件）/svc.md",
+    "middleware/Kubernetes/资源对象（组件）/pod.md",
+    "middleware/Kubernetes/master和node.md",
+    "middleware/Kubernetes/node.md",
+    "middleware/Kubernetes/与docker的关系.md",
+    "middleware/Kubernetes/资源对象（组件）.md",
+    "middleware/Kubernetes/资源对象（组件）",
+    "middleware/Docker/与k8s的关系.md",
+    "middleware/Kubernetes",
+    "middleware/Redis/简介.md",
+    "middleware/SCM工具.md",
+    "middleware/Redis",
+    "middleware/Docker/docker build.md",
+    "middleware/Docker/run和start的区别.md",
+    "middleware/Linux/软件包管理器.md",
+    "middleware/Linux/核心仓库BaseOs和AppStream.md",
+    "middleware/Linux/命令/sudo命令.md",
     "middleware/Jenkins",
     "middleware/Git/未命名.md",
     "middleware/Git/未命名 1.md",
-    "middleware/SCM工具.md",
     "middleware/Linux/命令/用户和组，权限/useradd命令.md",
     "middleware/Linux/命令/用户和组，权限/最小权限原则.md",
     "middleware/Linux/命令/用户和组，权限/chmod和chown.md",
     "middleware/Linux/命令/wget命令.md",
     "middleware/Linux/命令/ps命令.md",
-    "middleware/Linux/命令/mkdir命令.md",
-    "middleware/Linux/命令/dirname命令.md",
     "middleware/Linux/命令/用户和组，权限",
-    "middleware/Linux/命令/搜索类型的命令.md",
-    "middleware/Linux/命令/find命令.md",
-    "middleware/Docker/镜像和容器操作/容器操作.md",
-    "middleware/Docker/镜像和容器操作/数据持久化.md",
-    "middleware/Docker/镜像和容器操作/镜像操作.md",
-    "middleware/Docker/镜像和容器操作/docker run.md",
-    "middleware/Docker/容器名称和id.md",
-    "middleware/Docker/镜像和容器操作/保存为镜像.md",
-    "middleware/Docker/对已经创建的容器进行挂载映射.md",
-    "middleware/Docker/镜像和容器操作/docker exec和attach.md",
     "middleware/Docker/镜像和容器操作",
-    "middleware/Docker/镜像和容器的区别.md",
-    "middleware/Docker/docker安装配置.md",
-    "middleware/Docker/与k8s的关系.md",
-    "middleware/Docker/run和start的区别.md",
     "middleware/Linux/命令",
     "middleware/Docker/attachments/Obsidian.exe",
     "middleware/Docker/attachments",
-    "middleware/Linux/dnf更换阿里云镜像源.md",
     "middleware/Linux",
-    "middleware/Docker",
     "middleware/attachments/Pasted image 20250928101437.png",
-    "middleware/attachments",
     "JavaWeb/Servlet/attachments/Pasted image 20250401100326.png",
     "JavaWeb/Servlet/attachments/Pasted image 20250401095759.png",
-    "middleware/MyBatis/MybatisPlus",
-    "middleware/MySQL",
     "Spring Framework/Spring IoC-DI/Bean/attachments/Pasted image 20250913152038.png",
     "Pasted image 20250401095423.png"
   ]
